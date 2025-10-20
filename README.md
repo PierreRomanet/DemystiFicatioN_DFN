@@ -1,4 +1,4 @@
-# DemysTificaioN (DFN) <img src="docs/img/?.jpeg" alt="DFN logo" align="right" />
+# DemysTificaioN (DFN) 
 
 ## A Discrete Fault Network quasi-dynamic Software
 
