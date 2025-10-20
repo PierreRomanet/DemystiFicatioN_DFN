@@ -1,4 +1,4 @@
-# QDYN <img src="docs/img/?.jpeg" alt="DFN logo" align="right" />
+# DemysTificaioN (DFN) <img src="docs/img/?.jpeg" alt="DFN logo" align="right" />
 
 ## A Discrete Fault Network quasi-dynamic Software
 
